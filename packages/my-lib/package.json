@@ -1,0 +1,7 @@
+{
+  "name": "my-lib",
+  "private": true,
+  "main": "src/index.cjs",
+  "module": "src/index.mjs",
+  "types": "./index.d.ts"
+}
