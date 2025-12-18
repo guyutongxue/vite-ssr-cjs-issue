@@ -1,4 +1,3 @@
-import './App.css'
 import { getModuleType } from 'my-lib'
 
 function App() {
